@@ -8,7 +8,7 @@ output:
     toc_float: true
 subtitle: Getting ready with R
 ---
-add somthing to exist file
+add somthing to exist file +1
 ```{r child = "setup.Rmd"}
 ```
 
